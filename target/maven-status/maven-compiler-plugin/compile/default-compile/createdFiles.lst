@@ -1,0 +1,6 @@
+edu/supmti/hadoop/App.class
+edu/supmti/hadoop/WriteHDFS.class
+edu/supmti/hadoop/App$TokenizerMapper.class
+edu/supmti/hadoop/App$IntSumReducer.class
+edu/supmti/hadoop/HadoopFileStatus.class
+edu/supmti/hadoop/ReadHDFS.class
